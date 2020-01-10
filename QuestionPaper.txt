@@ -1,0 +1,21 @@
+1. retrieve location woeid (call remote server)
+
+https://www.metaweather.com/api/location/search/?query=bangalore
+
+
+2. retrieve weather info by date and woeid (call remote server) retrieve july month details
+
+https://www.metaweather.com/api/location/2295420/2019/7/01/
+
+
+3. store the above two output in mysql db
+
+4. Rest api to retrieve location details
+
+5. Rest api to filter/search based on any criteria in assignment 2 output
+
+6. pagination to be applied
+
+
+ refer the below website
+ https://www.metaweather.com/api/
